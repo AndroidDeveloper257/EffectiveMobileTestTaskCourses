@@ -1,6 +1,5 @@
 package uz.alimov.effectivemobiletesttaskcourses.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
@@ -51,7 +50,7 @@ fun EffectiveMobileTestTaskCoursesTheme(
     }
 
     MaterialTheme(
-        colorScheme = colorScheme,
+        colorScheme = DarkColorScheme,
         typography = Typography,
         content = content
     )
