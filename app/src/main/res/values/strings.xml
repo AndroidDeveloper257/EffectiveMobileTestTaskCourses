@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">EffectiveMobileTestTaskCourses</string>
+    <string name="login">Вход</string>
+    <string name="email">Email</string>
+    <string name="email_hint">example@gmail.com</string>
+    <string name="password">Пароль</string>
+    <string name="password_hint">Введите пароль</string>
+    <string name="open_register">Нету аккаунта? Регитрация</string>
+    <string name="register">Регитрация</string>
+    <string name="forgot_password">Забыл пароль</string>
+    <string name="home">Главная</string>
+    <string name="favorite">Избранное</string>
+    <string name="account">Аккаунт</string>
+    <string name="search_courses">Search courses...</string>
+    <string name="by_date_added">По дате добавления</string>
+    <string name="details">Подробнее</string>
+    <string name="start_course">Начать курс</string>
+    <string name="open_platform">Перейти на платформу</string>
+    <string name="about_course">О курсе</string>
+    <string name="ruble">₽</string>
+    <string name="lessons">уроков</string>
+    <string name="profile">Профиль</string>
+    <string name="contact_support">Написать в поддержку</string>
+    <string name="settings">Настройки</string>
+    <string name="logout">Выйти из аккаунта</string>
+    <string name="your_courses">Ваши курсы</string>
 </resources>
