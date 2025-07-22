@@ -1,4 +1,4 @@
-package uz.alimov.effectivemobiletesttaskcourses.ui.theme
+package uz.alimov.effectivemobiletesttaskcourses.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

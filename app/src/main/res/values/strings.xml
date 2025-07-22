@@ -3,16 +3,19 @@
     <string name="login">Вход</string>
     <string name="email">Email</string>
     <string name="email_hint">example@gmail.com</string>
+    <string name="email_error">Адрес электронной почты должен быть в формате text@text.text</string>
     <string name="password">Пароль</string>
     <string name="password_hint">Введите пароль</string>
-    <string name="open_register">Нету аккаунта? Регитрация</string>
-    <string name="register">Регитрация</string>
+    <string name="password_error">Пароль должен быть не менее 8 символов</string>
+    <string name="do_not_have_account">Нету аккаунта?</string>
+    <string name="open_register">Нету аккаунта? Регистрация</string>
+    <string name="register">Регистрация</string>
     <string name="forgot_password">Забыл пароль</string>
     <string name="home">Главная</string>
     <string name="favorite">Избранное</string>
     <string name="account">Аккаунт</string>
     <string name="search_courses">Search courses…</string>
-    <string name="by_date_added">По дате добавления</string>
+    <string name="publish_date">По дате добавления</string>
     <string name="details">Подробнее</string>
     <string name="start_course">Начать курс</string>
     <string name="open_platform">Перейти на платформу</string>
@@ -24,4 +27,13 @@
     <string name="settings">Настройки</string>
     <string name="logout">Выйти из аккаунта</string>
     <string name="your_courses">Ваши курсы</string>
+    <string name="author">Автор</string>
+    <string name="author_name">Merion academy</string>
+    <string name="course_started">Курс уже начался</string>
+    <string name="no_internet">Похоже, вы не в сети\nВключите мобильный интернет или подключитесь к Wi-Fi</string>
+    <string name="failed">Что-то пошло не так\nПопробуйте ещё раз</string>
+    <string name="try_again">Обновить</string>
+    <string name="favorites_empty">Сохранённых курсов пока нет\nПерейдите на главную страницу, чтобы начать сохранять курсы</string>
+    <string name="open_home">Перейти на главную</string>
+    <string name="started_courses_empty">Начатых курсов пока нет\nПерейдите на главную страницу, чтобы начать курсы</string>
 </resources>
